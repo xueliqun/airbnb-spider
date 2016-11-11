@@ -1,6 +1,6 @@
 # airbnb-spider
-Crawl room infomation from airbnb, including Place/Price/Title/Guests
-I want to get all the New York room data in Airbnb
+Crawl room infomation from airbnb, including Place/Price/Title/Guests.    
+I want to get all the New York room data in Airbnb.
 
 1. get_room_urls.py gets all the link of every room from homepage, make a room_urls_list
 2. pages_paring.py try to crawl room details from every_room_url, and store the data into MongoDB
