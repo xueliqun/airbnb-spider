@@ -1,2 +1,2 @@
 # airbnb-spider
-Crawl room data from airbnb   Place/Price/Title/Guests
+Crawl room infomation from airbnb, including Place/Price/Title/Guests
